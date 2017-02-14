@@ -1,0 +1,18 @@
+//buscar a oferta cadastrada
+			//String sqlBuscaOferta = "select * from Oferta where TITULO =?";
+			//PreparedStatement preBuscarOferta = com.prepareStatement(sqlBuscaOferta);
+			//preBuscarOferta.setString(1, ofe.getTitulo());
+			//ResultSet res = preBuscarOferta.executeQuery();
+			
+			//Oferta oferta = null;
+			 //if(res.next()) {
+				// oferta = new Oferta();
+				 //oferta.setId(res.getInt(1));	
+			//}
+			 
+			 //cadastrar anunucio
+			 //String sqlAnuncio = "insert into Anuncio values(null,?,?)";
+			 //PreparedStatement preAnuncio = com.prepareStatement(sqlAnuncio);
+			 //preAnuncio.setInt(1,oferta.getId());
+			 //preAnuncio.setInt(2, ofe.idUsuario);
+			 //pre.executeUpdate();
